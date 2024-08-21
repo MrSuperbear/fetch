@@ -16,7 +16,7 @@ Python 3.11 or higher is required
 ```
     
 ## Example 
-
+ The test "test_lightest_gold_bar" in tests/test_scale.py runs the automation. The page layout and functions are in pages/scale.py.
 ```bash
 ============================= test session starts =============================
 collecting ... collected 1 item
